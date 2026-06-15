@@ -8,9 +8,7 @@ An ultra-modern, highly aesthetic dashboard application that aggregates, filters
 
 The dashboard features a glassmorphic timeline layout with real-time fuzzy search, update filters, and a custom Tweet composer:
 
-![Dashboard Preview](static/screenshot_mockup.jpg)
-
-*(Note: Place your screenshot in `static/screenshot_mockup.jpg` to display it in repository hosting services).*
+![Dashboard Preview](event-talks-app/static/screenshot_mockup.jpg)
 
 ---
 
